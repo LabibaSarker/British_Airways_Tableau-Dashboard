@@ -1,2 +1,3 @@
 # British_Airways_Tableau-Dashboard
 
+Developed an interactive Tableau dashboard to visualize and analyze global customer reviews of British Airways, focusing on various aircraft types and service categories. The project utilized two integrated datasets to deliver a comprehensive view of customer satisfaction metrics. Key objectives included identifying trends, uncovering regional insights, and highlighting areas for service improvement. Through dynamic maps, bar charts, and other visualizations, the dashboard allows users to intuitively explore feedback across multiple dimensions such as cabin class, route, aircraft, and customer experience categories.
